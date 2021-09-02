@@ -15,3 +15,4 @@ realizará o saque;
 * Domingos o limite de saque é R$ 800,00 independente se há ou não saldo e notas disponiveis;
 * Sabados o limite de saque é R$ 1000,00 independente se há ou não saldo e notas disponíveis;
 * Nas quartas feiras o a nota de R$ 200 não está disponivel para sacar, mesmo que tenha no caixa eletronico;
+* Não utilizar comandos não ensinados no curso até este momento (for, arrays...);
